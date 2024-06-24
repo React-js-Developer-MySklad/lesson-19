@@ -43,6 +43,8 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "@types/react-router": "^5.1.20",
+    "@types/react-router-dom": "^5.3.3",
     "antd": "^5.18.2",
     "final-form": "^4.20.10",
     "localforage": "^1.10.0",

@@ -19,7 +19,8 @@ module.exports = {
             overlay: {
                 runtimeErrors: false
             }
-        }
+        },
+        historyApiFallback: true,
     },
     // Определяет директорию в которую помещаются файлы сборки
     output: {
