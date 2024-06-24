@@ -11,7 +11,7 @@ export default function Contact() {
     const { contact } = useLoaderData() as {contact: ContactType};
 
     return (
-        <div>
+        <div id="contact">
             <div>
                 <img
                     key={contact.avatar}
